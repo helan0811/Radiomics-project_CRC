@@ -7,8 +7,8 @@
 
 4. Run clust.R with R softwave to generate the radiomics features data from the image features data.
 
-5. Download the R code files from  https://github.com/helan0811/Radiomics-progect_CRC.
+5. Download the R code files from  https://github.com/helan0811/Radiomics-progect_CRC/R code.
 
-6. Downlad all the data from https://github.com/helan0811/iEDI-progect/data.
+6. Downlad all the data from https://github.com/helan0811/Radiomics-progect_CRC/data.
 
 7. Run the R codes in the “R code for statistic” folder with R softwave to generate all results of all the input datas.
