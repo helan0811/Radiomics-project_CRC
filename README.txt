@@ -5,7 +5,7 @@
 
 3. Run main.m with Matlab to obtain all the image features file from the .dcom file.
 
-4. Run clust.R with R softwave to generate the radiomics features data from the image features data.
+4. Run clust.R with R softwave to generate the EcoRad features data from the image features data.
 
 5. Download the R code files from  https://github.com/helan0811/Radiomics-progect_CRC/R code.
 
