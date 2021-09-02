@@ -7,8 +7,8 @@
 
 4. Run clust.R with R softwave to generate the EcoRad features data from the image features data.
 
-5. Download the R code files from  https://github.com/helan0811/Radiomics-progect_CRC/R code.
+5. Download the R code files from  https://github.com/helan0811/Radiomics-progect_CRC/R code for statistic.
 
-6. Downlad all the data from https://github.com/helan0811/Radiomics-progect_CRC/data.
+6. Downlad all the data from https://github.com/helan0811/Radiomics-progect_CRC/All data.
 
 7. Run the R codes in the “R code for statistic” folder with R softwave to generate all results of all the input datas.
