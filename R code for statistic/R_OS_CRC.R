@@ -1,6 +1,6 @@
 #####   Writen by Lan He
 ##### Email: helan0811@126.com
-##### Department of Radiology, Guangdong Gernal Hospital, Guangdong Academy of Medical Sciences, 106 Zhongshan Er road, Guangzhou 510080, China. 
+##### Department of Radiology, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, 106 Zhongshan Er road, Guangzhou 510080, China. 
 
 
 library(glmnet)
